@@ -5,7 +5,7 @@ description: "Master's student at UTokyo"
 logo: "card.png"  # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale: en
-url:
+url: https://sunwillrise.github.io
 feed:
   path: atom.xml
 
@@ -15,13 +15,10 @@ sass:
   sass_dir: _sass
   style: compressed
 permalink: /:categories/:title/
-kramdown:
-  toc_levels: 1..2
+markdown: kramdown
 highlighter: rouge
 gems:
   - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
 
 
 # Site owner
