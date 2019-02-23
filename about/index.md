@@ -1,5 +1,5 @@
 ---
-layout: media
+layout: home
 title: "About Mizuki"
 date:
 modified:
