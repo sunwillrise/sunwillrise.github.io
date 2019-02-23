@@ -2,24 +2,13 @@
 layout: home
 permalink: /
 image:
-    feature: header.jpg
+    feature: header3.jpg
 ---
 
 # What's New
 
-* **2019/02/02** Created the website.
-* a
-* b
-* c
-* d
-* e
-* f
-* g
-* g
+#### 2019/02/02
+* Created the website.
 
-# Expand 
-* a
-* b
-* c
-* d
+
 
