@@ -9,8 +9,6 @@ image:
 ads: false
 ---
 
-![No images](/images/about3.jpg)
-
 ## Notable events
 ##### 1995
 * Born in a city near Kobe, Japan.
@@ -37,6 +35,8 @@ ads: false
 * Participated in *Shigen-Sozai Juku* (Mining & Materials Processing Summer School) funded by The Mining and Materials Processing Institute of Japan. 
 
 ##### To be continued...
+
+
 
 ## Hobbies
 * Collecting Keychains
