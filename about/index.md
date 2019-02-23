@@ -1,5 +1,5 @@
 ---
-layout: media
+layout: article
 title: "Mizuki's Personal History"
 date:
 modified:
@@ -8,6 +8,8 @@ image:
   feature: about3.jpg
 ads: false
 ---
+
+![No images](/images/about3.jpg)
 
 ## Notable events
 ##### 1995

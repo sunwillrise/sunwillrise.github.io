@@ -2,10 +2,8 @@
 layout: home
 permalink: /
 image:
-    feature: header4.jpg
+    feature: header3.jpg
 ---
-# Mizuki Ishida's Homepage
-
 
 
 ### What's New
