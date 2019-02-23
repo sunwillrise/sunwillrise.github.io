@@ -37,12 +37,13 @@ ads: false
 
 ## Presentations and Posters
 
-1. Ishida, M., Murakami, S., Yasukawa, K., Nakamura, K., Fujinaga, K., Kato, Y. (2018, September) Gold Mineralization in Nansatsu-Type Gold Deposits: Implications from Trace Element Geochemistry of Sulfide Minerals. Oral presentation at the 125th annual meeting of the Geological Society of Japan, Sapporo, Japan
+1. **Ishida, M.**, Murakami, S., Yasukawa, K., Nakamura, K., Fujinaga, K., Kato, Y. (2018, September) *Gold Mineralization in Nansatsu-Type Gold Deposits: Implications from Trace Element Geochemistry of Sulfide Minerals.* Oral presentation at the 125th annual meeting of the Geological Society of Japan, Sapporo, Japan
 
-2. Ishida, M., Murakami, S., Yasukawa, K., Nakamura, K., Fujinaga, K., Kato, Y.. (2018, May) Geochemical Behavior of Gold in the Nansatsu-Type Gold Deposits. Poster presentation at the Japan Geoscience Union Annual Meeting, Chiba, Japan
+2. **Ishida, M.**, Murakami, S., Yasukawa, K., Nakamura, K., Fujinaga, K., Kato, Y.. (2018, May) *Geochemical Behavior of Gold in the Nansatsu-Type Gold Deposits.* Poster presentation at the Japan Geoscience Union Annual Meeting, Chiba, Japan
 
 
 ## Tools that I am learning
+* Python
 * ICP-MS QMS solution analysis
 * LA-ICP-MS
 * SEM(-EDS)
