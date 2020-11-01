@@ -8,8 +8,9 @@ image:
 
 ### What's New
 
-##### 2019/02/02
-* Created the website.
+##### 2020/11/01
+* Created a new website!! https://mizuki-ishida.webflow.io/
+* Current website will be deleted soon. 
 
 
 
